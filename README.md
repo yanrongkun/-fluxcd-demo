@@ -1,1 +1,1 @@
-# -fluxcd-demo
+# fluxcd-demo
